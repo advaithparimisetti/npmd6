@@ -1,0 +1,23 @@
+{
+  "name": "d6pack",
+  "version": "1.0.0",
+  "description": "calculator of d6 ",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "advaithparimisetti",
+  "license": "ISC",
+  "dependencies": {
+    "cald6": "^1.0.0",
+    "dhanu_npm_package": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/advaithparimisetti/npmd6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/advaithparimisetti/npmd6/issues"
+  },
+  "homepage": "https://github.com/advaithparimisetti/npmd6#readme"
+}
